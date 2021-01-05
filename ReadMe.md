@@ -2,6 +2,10 @@
 
 We are in the mission of solving a crisis for a lot of small and medium enterprises, who are trying to recruit interns for their projects. This platform aims to onboard new interns, who have applied to the companies and help them understand the process and make the transition smooth.
 
+> **Winter of Code Series!**
+> 
+> Check out the [Winter of Code](https://www.youtube.com/playlist?list=PLO_Y0rsm7b3Yc8FtNhCuD5TO0QM8CnTZj) Series on YouTube. It will give a great start for you, if you're a complete fresher! Also, I would kindly request you to subscribe to my [YouTube Channel](https://www.youtube.com/praveenscience?sub_confirmation=1), so that you'll be getting notifications of awesome things!
+
 To start contributing, directly jump to the [**Steps to Contribute**](#steps) and follow everything. In case, if you're unsure, please check out the [FAQs](#faqs) (Frequently Asked Questions).
 
 ![Welcome](https://i.imgur.com/8LkmUmi.png)
@@ -42,11 +46,13 @@ Contributions to this project are currently welcome through one of the following
 
 ### Steps
 
-1. If you have not registered yet, please go ahead and register as a participant or a mentor. Start your conversation with us on [**Discord**](https://discord.com/channels/731001496417730611/790974003011518474) (DevScript WoC) project room or Slack Channel (Script WoC - Soon to be made).
+1. If you have not registered yet, please go ahead and register as a participant or a mentor. Start your conversation with us on [**Discord**](https://discord.com/channels/731001496417730611/790974003011518474) (DevScript WoC) project room or [**Slack Channel**](https://swoc-workspace.slack.com/archives/C01HPAJ6TQT) (Script WoC).
+2. If you're absolutely clueless, please start with learning the requirements needed for this project by following the videos on [**Winter of Code**](https://www.youtube.com/playlist?list=PLO_Y0rsm7b3Yc8FtNhCuD5TO0QM8CnTZj). Hey, don't forget to hit the subscribe button!
 2. Once registered, to show your interest, please Star this repository.
-3. Please wait till **29th 5pm IST** for more information about this project, contribution guidelines and the plan. My team and I are working super hard to get the issues and project flow updated, plus we are talking with the local companies for internships too. Please give us some time. It's going to be awesome.
+3. Please wait till **Jan 10th 5pm IST** for more information about this project, contribution guidelines and the plan. My team and I are working super hard to get the issues and project flow updated, plus we are talking with the local companies for internships too. Please give us some time. It's going to be awesome.
 4. Don't forget to check out my [YouTube Channel](https://www.youtube.com/praveenscience?sub_confirmation=1), where a lot of information about the project will be given! Plus there are super awesome tech talks! 😁 Don't miss them.
-5. Be awesome and read #3 and #4.
+
+Be awesome and read the follow the guidelines.
 
 ## FAQs
 
